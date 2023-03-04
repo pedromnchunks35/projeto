@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2023.2.26)  4 MAR 2023 19:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2023.2.26)  4 MAR 2023 20:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -169,20 +169,20 @@ File: l3backend-pdftex.def 2022-04-14 L3 backend support: PDF output (pdfTeX)
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
  (/usr/share/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 ) (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -207,7 +207,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 <./assets/EEUMLOGO.png, id=1, 301.125pt x 273.02pt>
 File: ./assets/EEUMLOGO.png Graphic file (type png)
 <use ./assets/EEUMLOGO.png>
-Package pdftex.def Info: ./assets/EEUMLOGO.png  used on input line 38.
+Package pdftex.def Info: ./assets/EEUMLOGO.png  used on input line 40.
 (pdftex.def)             Requested size: 225.84319pt x 204.7645pt.
  [1
 
@@ -219,15 +219,15 @@ LaTeX Warning: No \author given.
 <./assets/index.jpg, id=16, 803.0pt x 803.0pt>
 File: ./assets/index.jpg Graphic file (type jpg)
 <use ./assets/index.jpg>
-Package pdftex.def Info: ./assets/index.jpg  used on input line 74.
+Package pdftex.def Info: ./assets/index.jpg  used on input line 76.
 (pdftex.def)             Requested size: 142.26378pt x 142.25475pt.
 File: ./assets/index.jpg Graphic file (type jpg)
 <use ./assets/index.jpg>
-Package pdftex.def Info: ./assets/index.jpg  used on input line 78.
+Package pdftex.def Info: ./assets/index.jpg  used on input line 80.
 (pdftex.def)             Requested size: 142.26378pt x 142.25475pt.
 File: ./assets/index.jpg Graphic file (type jpg)
 <use ./assets/index.jpg>
-Package pdftex.def Info: ./assets/index.jpg  used on input line 82.
+Package pdftex.def Info: ./assets/index.jpg  used on input line 84.
 (pdftex.def)             Requested size: 142.26378pt x 142.25475pt.
 
 
@@ -242,21 +242,25 @@ LaTeX Warning: No \author given.
 LaTeX Warning: No \author given.
 
 [2] (./1-InceptionIteration/1.1-InitiateProject/1.1-InitiateProject.tex) (./1-InceptionIteration/1.2-PlanAndManageIteration/1.2-PlanAndManageIteration.tex) (./1-InceptionIteration/1.3-IdentifyAndRefineRequirements/1.3-IdentifyAndRefineRequirements.tex) (./1-InceptionIteration/1.4-AgreeOnTheTechnicalApproach/1.4-AgreeOnTheTechnicalApproach.tex)
+
+LaTeX Warning: No \author given.
+
+[3]
 No file main.bbl.
 (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 4705 strings out of 478238
- 75750 string characters out of 5850456
- 394185 words of memory out of 5000000
- 22873 multiletter control sequences out of 15000+600000
- 475736 words of font info for 50 fonts, out of 8000000 for 9000
+ 4706 strings out of 478238
+ 75767 string characters out of 5850456
+ 397185 words of memory out of 5000000
+ 22874 multiletter control sequences out of 15000+600000
+ 476043 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,11n,62p,579b,255s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (4 pages, 122289 bytes).
+Output written on main.pdf (5 pages, 131169 bytes).
 PDF statistics:
- 41 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
+ 44 PDF objects out of 1000 (max. 8388607)
+ 25 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

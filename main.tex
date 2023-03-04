@@ -12,6 +12,8 @@
 \setmarginsrb{3 cm}{2.5 cm}{3 cm}{2.5 cm}{1 cm}{1.5 cm}{1 cm}{1.5 cm}
 \patchcmd{\tableofcontents}{\contentsname}{Conteudo}{}{}
 
+\setcounter{tocdepth}{4} % Include up to fourth-level subsections in the table of contents
+\setcounter{secnumdepth}{4} % Number up to fourth-level subsections
 
 \title{Architecture Design: Machine Learning (MLOps) and MicroServices}								% Title							% Author
 \date{\today}											% Date
@@ -93,6 +95,7 @@ Tiago Martins
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % 1- Inception Iteration
+\section{InceptionIteration}
 \input{1-InceptionIteration/1.1-InitiateProject/1.1-InitiateProject.tex}
 \input{1-InceptionIteration/1.2-PlanAndManageIteration/1.2-PlanAndManageIteration.tex}
 \input{1-InceptionIteration/1.3-IdentifyAndRefineRequirements/1.3-IdentifyAndRefineRequirements.tex}

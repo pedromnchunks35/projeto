@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex main"] 1677958233 "main.aux" "main.bbl" "main" 1677958234
+["bibtex main"] 1677960740 "main.aux" "main.bbl" "main" 1677960741
   "/usr/share/texmf-dist/bibtex/bst/base/plain.bst" 1650183167 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   "biblist.bib" 0 -1 0 ""
-  "main.aux" 1677958234 241 e636680452916e0f72e5e8484735b290 "pdflatex"
+  "main.aux" 1677960741 1769 21f5ee1b88ddcf998af0149ef277a250 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1677958233 "/home/pedromn35/Desktop/Work/ArquiteturaDistribuidos/projeto/main.tex" "main.pdf" "main" 1677958234
-  "/home/pedromn35/Desktop/Work/ArquiteturaDistribuidos/projeto/main.tex" 1677958233 2745 527a3580f66fced1c4bb2219744788b8 ""
+["pdflatex"] 1677960740 "/home/pedromn35/Desktop/Work/ArquiteturaDistribuidos/projeto/main.tex" "main.pdf" "main" 1677960741
+  "/home/pedromn35/Desktop/Work/ArquiteturaDistribuidos/projeto/main.tex" 1677959816 2933 3aeb538931c4ba3a7a29aeae442aa1e5 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1650183167 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1650183167 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1650183167 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -66,16 +66,16 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1650183167 39911 2da6c67557ec033436fe5418a70a8a61 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1677409442 4278762 af3ac1370db81a450c1118eabf1fe718 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1677409419 2927663 eac05c1465f7e8393ccdf211de874914 ""
-  "1-InceptionIteration/1.1-InitiateProject/1.1-InitiateProject.tex" 0 -1 0 ""
+  "1-InceptionIteration/1.1-InitiateProject/1.1-InitiateProject.tex" 1677960740 691 fd18461e9c59d6ef71aaa14033c68564 ""
   "1-InceptionIteration/1.2-PlanAndManageIteration/1.2-PlanAndManageIteration.tex" 0 -1 0 ""
   "1-InceptionIteration/1.3-IdentifyAndRefineRequirements/1.3-IdentifyAndRefineRequirements.tex" 0 -1 0 ""
   "1-InceptionIteration/1.4-AgreeOnTheTechnicalApproach/1.4-AgreeOnTheTechnicalApproach.tex" 0 -1 0 ""
   "assets/EEUMLOGO.png" 1677956850 14206 e0bfa30e0954d134c6bd5ef74ac6de0d ""
   "assets/index.jpg" 1677956902 58174 018f71bd09caac6ed0d94a0574b71231 ""
-  "main.aux" 1677958234 241 e636680452916e0f72e5e8484735b290 "pdflatex"
+  "main.aux" 1677960741 1769 21f5ee1b88ddcf998af0149ef277a250 "pdflatex"
   "main.bbl" 0 -1 0 "bibtex main"
-  "main.tex" 1677958233 2745 527a3580f66fced1c4bb2219744788b8 ""
-  "main.toc" 1677958234 83 b842b32139a0c5c3f0a2ab4766a59bb1 "pdflatex"
+  "main.tex" 1677959816 2933 3aeb538931c4ba3a7a29aeae442aa1e5 ""
+  "main.toc" 1677960741 1037 feca4f34ce91d980fbd349e9abc42da4 "pdflatex"
   (generated)
   "main.aux"
   "main.log"
