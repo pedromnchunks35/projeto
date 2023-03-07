@@ -1,19 +1,19 @@
 # Fdb version 3
-["bibtex main"] 1677961312 "main.aux" "main.bbl" "main" 1677961316
+["bibtex main"] 1678196567 "main.aux" "main.bbl" "main" 1678196570
   "biblist.bib" 0 -1 0 ""
   "c:/texlive/2021/texmf-dist/bibtex/bst/base/plain.bst" 1647905946 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "main.aux" 1677961314 241 e636680452916e0f72e5e8484735b290 "pdflatex"
+  "main.aux" 1678196569 1769 58300fea7dd1c45883bc9aa34337fe16 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1677961312 "c:/Users/xuydo/Desktop/My Cloud/GSI/projeto/main.tex" "main.pdf" "main" 1677961316
-  "1-InceptionIteration/1.1-InitiateProject/1.1-InitiateProject.tex" 0 -1 0 ""
+["pdflatex"] 1678196567 "c:/Users/xuydo/Desktop/My Cloud/GSI/projeto/main.tex" "main.pdf" "main" 1678196570
+  "1-InceptionIteration/1.1-InitiateProject/1.1-InitiateProject.tex" 1678196560 2721 63934754a9ddc0d098888c1c466b51a5 ""
   "1-InceptionIteration/1.2-PlanAndManageIteration/1.2-PlanAndManageIteration.tex" 0 -1 0 ""
   "1-InceptionIteration/1.3-IdentifyAndRefineRequirements/1.3-IdentifyAndRefineRequirements.tex" 0 -1 0 ""
   "1-InceptionIteration/1.4-AgreeOnTheTechnicalApproach/1.4-AgreeOnTheTechnicalApproach.tex" 0 -1 0 ""
   "assets/EEUMLOGO.png" 1677958976 14206 ca222b9739918cbf4fd7d8f83abbf1fa ""
   "assets/index.jpg" 1677958976 58174 e10a793c0d8d540d2ec64ba92175fcd9 ""
-  "c:/Users/xuydo/Desktop/My Cloud/GSI/projeto/main.tex" 1677961311 2857 60a9d2d32f3227ba139351c45d21deee ""
+  "c:/Users/xuydo/Desktop/My Cloud/GSI/projeto/main.tex" 1678196560 3048 76abdb9019634fa795dca008f46587b3 ""
   "c:/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1647908414 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1647905129 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1647905129 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -73,10 +73,10 @@
   "c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647916224 4448422 1ce8db434ffa4259b75148f2b12051ea ""
   "c:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1647916477 2826093 479c5e45e15ab9caf8789d03110ad071 ""
   "c:/texlive/2021/texmf.cnf" 1647916182 713 e69b156964470283e0530f5060668171 ""
-  "main.aux" 1677961314 241 e636680452916e0f72e5e8484735b290 "pdflatex"
+  "main.aux" 1678196569 1769 58300fea7dd1c45883bc9aa34337fe16 "pdflatex"
   "main.bbl" 0 -1 0 "bibtex main"
-  "main.tex" 1677961311 2857 60a9d2d32f3227ba139351c45d21deee ""
-  "main.toc" 1677961314 83 b842b32139a0c5c3f0a2ab4766a59bb1 "pdflatex"
+  "main.tex" 1678196560 3048 76abdb9019634fa795dca008f46587b3 ""
+  "main.toc" 1678196569 1037 79ad5dcb77e0a0d27120f4753e1b6e82 "pdflatex"
   (generated)
   "main.aux"
   "main.log"

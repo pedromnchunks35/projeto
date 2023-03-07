@@ -364,6 +364,7 @@ INPUT ./1-InceptionIteration/1.1-InitiateProject/1.1-InitiateProject.tex
 INPUT 1-InceptionIteration/1.1-InitiateProject/1.1-InitiateProject.tex
 INPUT ./1-InceptionIteration/1.1-InitiateProject/1.1-InitiateProject.tex
 INPUT 1-InceptionIteration/1.1-InitiateProject/1.1-InitiateProject.tex
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT ./1-InceptionIteration/1.2-PlanAndManageIteration/1.2-PlanAndManageIteration.tex
 INPUT 1-InceptionIteration/1.2-PlanAndManageIteration/1.2-PlanAndManageIteration.tex
 INPUT ./1-InceptionIteration/1.2-PlanAndManageIteration/1.2-PlanAndManageIteration.tex
