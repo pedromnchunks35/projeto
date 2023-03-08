@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex main"] 1678286100 "main.aux" "main.bbl" "main" 1678286103
+["bibtex main"] 1678314858 "main.aux" "main.bbl" "main" 1678314858
   "biblist.bib" 0 -1 0 ""
   "c:/texlive/2021/texmf-dist/bibtex/bst/base/plain.bst" 1647905946 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   "main.aux" 1678286102 1769 0d402b44132031f916b84f4aed03e6e6 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1678286100 "c:/Users/xuydo/Desktop/My Cloud/GSI/projeto/main.tex" "main.pdf" "main" 1678286103
-  "1-InceptionIteration/1.1-InitiateProject/1.1-InitiateProject.tex" 1678286096 4161 d48f17bedf140752140ca6d8acfce6b3 ""
+["pdflatex"] 1678286100 "c:/Users/xuydo/Desktop/My Cloud/GSI/projeto/main.tex" "main.pdf" "main" 1678314858
+  "1-InceptionIteration/1.1-InitiateProject/1.1-InitiateProject.tex" 1678314854 4161 d48f17bedf140752140ca6d8acfce6b3 ""
   "1-InceptionIteration/1.2-PlanAndManageIteration/1.2-PlanAndManageIteration.tex" 0 -1 0 ""
   "1-InceptionIteration/1.3-IdentifyAndRefineRequirements/1.3-IdentifyAndRefineRequirements.tex" 0 -1 0 ""
   "1-InceptionIteration/1.4-AgreeOnTheTechnicalApproach/1.4-AgreeOnTheTechnicalApproach.tex" 0 -1 0 ""
