@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.22)  7 MAR 2023 13:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.22)  8 MAR 2023 14:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -250,21 +250,25 @@ LaTeX Warning: No \author given.
 LaTeX Warning: No \author given.
 
 [4]
+
+LaTeX Warning: No \author given.
+
+[5]
 No file main.bbl.
 (./main.aux) ) 
 Here is how much of TeX's memory you used:
  4683 strings out of 478276
  75413 string characters out of 5850489
- 397163 words of memory out of 5000000
+ 398163 words of memory out of 5000000
  22820 multiletter control sequences out of 15000+600000
  476043 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,11n,62p,809b,255s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (6 pages, 133994 bytes).
+Output written on main.pdf (7 pages, 135625 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
- 27 compressed objects within 1 object stream
+ 52 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
