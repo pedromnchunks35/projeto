@@ -18,6 +18,7 @@
         ! System Boundaries 
         ! Define Constraints
     ? Find and Outline Requirements DONG
+    ? costs DONG
         ! Requirements 
    Architecture
     // Why do we think in architecture PEDRO
