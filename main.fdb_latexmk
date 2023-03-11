@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex main"] 1678302782 "main.aux" "main.bbl" "main" 1678302783
+["bibtex main"] 1678561705 "main.aux" "main.bbl" "main" 1678561706
   "/usr/share/texmf-dist/bibtex/bst/base/plain.bst" 1650183167 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   "biblist.bib" 0 -1 0 ""
-  "main.aux" 1678302782 1769 0d402b44132031f916b84f4aed03e6e6 "pdflatex"
+  "main.aux" 1678561706 1769 0d402b44132031f916b84f4aed03e6e6 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1678302782 "/home/pedromn35/Desktop/Work/ArquiteturaDistribuidos/projeto/main.tex" "main.pdf" "main" 1678302783
-  "/home/pedromn35/Desktop/Work/ArquiteturaDistribuidos/projeto/main.tex" 1678302782 2941 76abdb9019634fa795dca008f46587b3 ""
+["pdflatex"] 1678561705 "/home/pedromn35/Desktop/Work/ArquiteturaDistribuidos/projeto/main.tex" "main.pdf" "main" 1678561706
+  "/home/pedromn35/Desktop/Work/ArquiteturaDistribuidos/projeto/main.tex" 1678561705 2934 69d8e5611f2cbb1e6647ce73ddd07e1e ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1650183167 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1650183167 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1650183167 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -72,10 +72,10 @@
   "1-InceptionIteration/1.4-AgreeOnTheTechnicalApproach/1.4-AgreeOnTheTechnicalApproach.tex" 0 -1 0 ""
   "assets/EEUMLOGO.png" 1677956850 14206 e0bfa30e0954d134c6bd5ef74ac6de0d ""
   "assets/index.jpg" 1677956902 58174 018f71bd09caac6ed0d94a0574b71231 ""
-  "main.aux" 1678302782 1769 0d402b44132031f916b84f4aed03e6e6 "pdflatex"
+  "main.aux" 1678561706 1769 0d402b44132031f916b84f4aed03e6e6 "pdflatex"
   "main.bbl" 0 -1 0 "bibtex main"
-  "main.tex" 1678302782 2941 76abdb9019634fa795dca008f46587b3 ""
-  "main.toc" 1678302782 1037 31f99fc0cc27b0b4105b01dd4799c85f "pdflatex"
+  "main.tex" 1678561705 2934 69d8e5611f2cbb1e6647ce73ddd07e1e ""
+  "main.toc" 1678561706 1037 31f99fc0cc27b0b4105b01dd4799c85f "pdflatex"
   (generated)
   "main.aux"
   "main.log"

@@ -10,7 +10,7 @@
   Falar de alguns padroes (cliente-servidor, coisas assim...
   
   Distributed Systems
-   ? Caracteristics PEDRO
+   // Caracteristics PEDRO
    ? Types of faults DONG
    ? Problems associated with it DONG
    ? Global watch  MARTINS
@@ -29,7 +29,7 @@
           ! Requirements 
           ! Detail use case Models 
    Architecture
-    ? Why do we think in architecture PEDRO
+    // Why do we think in architecture PEDRO
         ? Problems to be solved with it MARTINS
     ! Architecture Requirements 
     ! Global vision of architecture 
