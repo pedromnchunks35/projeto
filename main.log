@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2023.2.26)  14 MAR 2023 19:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2023.2.26)  14 MAR 2023 19:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -94,17 +94,17 @@ Package pdftex.def Info: assets/index.jpg  used on input line 7.
 (pdftex.def)             Requested size: 195.0pt x 257.36948pt.
 ) (./Distributed Systems/main.tex) (./Information System/main.tex [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./assets/index.jpg>]) (./Architecture/main.tex [2] [3]) (./Outline Requirements/main.tex) (./Cost/main.tex) [4] [5] (./main.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./assets/index.jpg>] [2]) (./Architecture/main.tex [3]) (./Outline Requirements/main.tex) (./Cost/main.tex) [4] [5] (./main.aux) ) 
 Here is how much of TeX's memory you used:
  1389 strings out of 478238
  23119 string characters out of 5850456
- 320920 words of memory out of 5000000
+ 319920 words of memory out of 5000000
  19648 multiletter control sequences out of 15000+600000
  470163 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,7n,62p,758b,226s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on main.pdf (5 pages, 135620 bytes).
+Output written on main.pdf (5 pages, 135646 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  18 compressed objects within 1 object stream
