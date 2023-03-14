@@ -1,10 +1,10 @@
 # Fdb version 3
-["pdflatex"] 1678803560 "c:/Users/xuydo/Desktop/My Cloud/GSI/projeto/main.tex" "main.pdf" "main" 1678803563
+["pdflatex"] 1678804419 "c:/Users/xuydo/Desktop/My Cloud/GSI/projeto/main.tex" "main.pdf" "main" 1678804420
   "Architecture/main.tex" 1678566376 1268 4fa94d5113295600a4934c08038c574a ""
   "Cost/main.tex" 1678803558 1365 aff25752214a7d5afb34da301ccd426a ""
   "Distributed Systems/main.tex" 1678566376 2601 6dc7b5b7afd18ab5d343ed10ffc69812 ""
   "Information System/main.tex" 1678566376 5412 1f421b3674140978e3997bf45b70313b ""
-  "Introduction/main.tex" 1678566376 200 f60bdb089a2c1e7f4483c817f7ce2a47 ""
+  "Introduction/main.tex" 1678804416 198 70ede8a4443255512ca4cbb0a02fa418 ""
   "Outline Requirements/main.tex" 1678801453 524 4b10436014a3e2f1286c3c9a9028bfbd ""
   "assets/index.jpg" 1678566376 92992 67580e410f7512a5668c38f31e833489 ""
   "c:/Users/xuydo/Desktop/My Cloud/GSI/projeto/main.tex" 1678801370 291 97718c0976ffc25eb5bd6f8737008344 ""
@@ -30,7 +30,7 @@
   "c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647916224 4448422 1ce8db434ffa4259b75148f2b12051ea ""
   "c:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1647916477 2826093 479c5e45e15ab9caf8789d03110ad071 ""
   "c:/texlive/2021/texmf.cnf" 1647916182 713 e69b156964470283e0530f5060668171 ""
-  "main.aux" 1678803562 812 a36f7a55f3f43b595a58378c0fc1c2a8 "pdflatex"
+  "main.aux" 1678804420 810 cda1ff47f2c9f9ec7a8cdecc1b7f6a55 "pdflatex"
   "main.tex" 1678801370 291 97718c0976ffc25eb5bd6f8737008344 ""
   (generated)
   "main.aux"
